@@ -1,0 +1,3 @@
+animaçoes a se fazer
+
+bolinhas andando do lado dos titulos, selecao do menu e onde mostra os dias da semana na secao 2, secao 1 do background arrumar a ediçao da tag audio.
